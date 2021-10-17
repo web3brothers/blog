@@ -1,0 +1,21 @@
+{
+  "title": "Web3 Brothers",
+  "url": "https://web3brothers.tech/",
+  "language": "en",
+  "description": "We are writing about blockchain validation and blockchain",
+  "feed": {
+    "subtitle": "We are writing about blockchain validation and blockchain.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Your Name Here",
+    "email": "youremailaddress@example.com",
+    "url": "https://example.com/about-me/"
+  }
+}
